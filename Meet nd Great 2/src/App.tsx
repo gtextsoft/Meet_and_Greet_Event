@@ -54,7 +54,7 @@ function App() {
             <Calendar className="w-8 h-8 text-yellow-500 flex-shrink-0" />
             <div>
               <h3 className="font-semibold text-lg">Date</h3>
-              <p>March 29, 2025</p>
+              <p>March 22nd, 2025</p>
             </div>
           </div>
           <div className="bg-white p-6 rounded-xl shadow-lg flex items-start space-x-4 transform hover:scale-105 transition duration-300">
